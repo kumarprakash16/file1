@@ -11,6 +11,6 @@ int main()
     }
     cout<<x;
     cout<<"Akki the boss";
-    cout<<"Prakash is the boss"
+    cout<<"Prakash is the boss";
     return 0;
 }
